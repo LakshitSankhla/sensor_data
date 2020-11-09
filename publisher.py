@@ -5,7 +5,7 @@ import random
 import time
 from datetime import datetime
 
-broker="localhost"
+broker="mqtt.eclipse.org"
 topic="sensor_data"
 port=1883
 ACCESS_TOKEN='zenatix'
