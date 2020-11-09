@@ -4,7 +4,7 @@ import datetime
 import json
 import time
 
-broker = "localhost"
+broker = "mqtt.eclipse.org"
 topic = "sensor_data"
 temp=[]
 humid=[]
